@@ -6,6 +6,7 @@ st.write(
 )
 st.image("image.jpg",width=2000)
 
+
 st.title("situs halal")
 st.header("Aplikasi Game mengasah otak")
 angka = st.number_input("tulis sebuah angka:", value=0, step=1)
