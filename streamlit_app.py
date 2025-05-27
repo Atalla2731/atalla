@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("selamat datang di situs ini)
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "mari mengasah otak di situs ini"
 )
 st.image("image.jpg",width=2000)
